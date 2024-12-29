@@ -1,4 +1,18 @@
 
+# Extension for Bank Mitra
+A Web extension to provide additional features to some Banking solution, For Bank Mitras of Central Bank, Baroda Uttar Pradesh, Punjab National Bank, Digipay Lite.
+
+
+## Features of this Extension
+
+- Image screenshot of Receipt at your telegram
+- Automated action to prevent session timeout
+- Print receipt through your Thermal Printer
+- Get notification for every transaction from any server
+
+
+## 🛠 Language
+Javascript
 ## Script
 - to push notification
 ```javascript
@@ -117,3 +131,37 @@ class telegram_bot {
     }
 }
 ```
+
+## Variables
+
+To run this project, you will need to set the following variables to your env.js file
+
+`TELEGRAM_BOT_TOKEN`
+
+`TELEGRAM_BOT_CHATID`
+
+
+## Installation
+
+Install my-project with by setting up this extension into any of your chromium browser and enjoy the features
+  
+## Authors
+
+- [@Aditya Chaudhari](https://www.github.com/Byte-Craftsman-Alpha)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Feel free to ask for any change, updrage or modification
+
+## Feedback
+
+If you have any feedback, please reach out to us at adity463615@gmail.com
+
+## Acknowledgements
+
+ - [html2canvas](https://html2canvas.hertzen.com/)
+ - [Telegram APIs](https://core.telegram.org/)
+
